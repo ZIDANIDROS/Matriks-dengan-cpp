@@ -1,2 +1,2 @@
 # Matriks-dengan-cpp
-Aljabar liner
+Aljabar linier
